@@ -13,3 +13,6 @@ projects leveraging these APIs. We will then study the history of Question-Answe
 Conversational Agents (Chatbots). Finally, we will study reinforcement learning algorithms and use the OpenAI
 environment to build projects. Applications will be built using Amazon, Bluemix and Azure environments and
 primarilyinPython.Thecourseisahands-oncourseandwill includepaperreviewsandenvironmentexploration.
+
+Team 3: Adhira Deogade <deogade.a@husky.neu.edu>
+        Xiaoyu Wang <wang.xiaoyu4@husky.neu.edu>
